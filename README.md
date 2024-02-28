@@ -1,4 +1,4 @@
-# This is developed by Bob & An amazing woman <3
+# This is developed by Bob
 
 ## Integrated Deep Learning Based Optimization Algorithms for Medical Data
 A research proposal submitted to:
