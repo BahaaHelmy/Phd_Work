@@ -5,7 +5,7 @@ from solution import solution
 import time
 
 
-def SSA(objf, lb, ub, dim, N, Max_iteration):
+def SSA(objf, lb, ub, dim, N, Max_iteration): 
 
     # Max_iteration=1000
     # lb=-100
