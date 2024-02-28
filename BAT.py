@@ -5,7 +5,7 @@ Created on Thu May 26 02:00:55 2016
 @author: hossam
 """
 import math
-import numpy
+import numpy 
 import random
 import time
 from solution import solution
